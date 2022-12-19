@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋   -->
+![garfield-hi-there](https://user-images.githubusercontent.com/101977910/208351738-242e2d1a-5147-4d04-8760-f51731bbdba5.gif)
 
 <!--
 **alloc7260/alloc7260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
