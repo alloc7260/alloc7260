@@ -1,5 +1,30 @@
 <!-- ### Hi there 👋   -->
-![garfield-hi-there](https://user-images.githubusercontent.com/101977910/208351738-242e2d1a-5147-4d04-8760-f51731bbdba5.gif)
+<!-- ![garfield-hi-there](https://user-images.githubusercontent.com/101977910/208351738-242e2d1a-5147-4d04-8760-f51731bbdba5.gif) -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Happy+to+see+you+here+😉&center=true&size=28">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=This%20is%20Pranav%20Patel....;Always%20learning%20new%20things%20✌&center=true&color=f75c7e&size=22" />
+  </a>
+</p>
+
+<div>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alloc7260&theme=react&border=61dafb&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=alloc7260&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--
 **alloc7260/alloc7260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +48,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alloc7260&langs_count=10&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
