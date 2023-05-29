@@ -25,7 +25,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloc7260&theme=react&border=61dafb&hide_border=true" alt="Stats">
 </p>
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=alloc7260&theme=react-dark&bg_color=20232a&line=f75c7e&hide_border=true)
+<!-- ![graph](https://github-readme-activity-graph.cyclic.app/graph?username=alloc7260&theme=react-dark&bg_color=20232a&line=f75c7e&hide_border=true) -->
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=alloc7260&theme=react-dark&bg_color=20232a&line=f75c7e&hide_border=true)
 
 <!--
 **alloc7260/alloc7260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
